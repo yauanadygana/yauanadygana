@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @yauanadygana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @yauanadygana  
 
-<!---
-yauanadygana/yauanadygana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring software engineer with a love for coding and problem-solving.  
+🌱 Learning everything from front-end frameworks to data structures.  
+💞️ Let’s team up to solve real-world tech challenges!  
+📫 Contact me: yauanadygana47@gmail.com
+
+⚡ Fun fact: My code works better after my third cup of coffee.  
